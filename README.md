@@ -1,29 +1,6 @@
-# README #
+# AWS S3 Operations #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Example of how to connect AWS S3 using the access key and secret key or the IAM role.
+Sample code to upload, download, list and delete objects in S3 bucket using AWS Java SDK 2.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Refer complete article at: https://www.bytestree.com/cloud/aws/aws-s3-java-sdk-v2/
